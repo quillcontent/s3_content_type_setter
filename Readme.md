@@ -1,4 +1,4 @@
-# S3 Assets Content Typizer
+# S3 Content Types Setter
 
 Script / program that runs through all the files present in your S3 bucket and for every file:
 
