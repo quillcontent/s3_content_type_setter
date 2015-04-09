@@ -1,0 +1,24 @@
+GIT
+  remote: git://github.com/halostatue/mime-types.git
+  revision: c9b5339d2e255db1670b1a1d55ee96d09155da9c
+  specs:
+    mime-types (2.4.1)
+
+GIT
+  remote: git://github.com/qoobaa/s3.git
+  revision: 0a3f0f755442f795b69ea0156cb1cab659c004cc
+  specs:
+    s3 (0.3.21)
+      proxies (~> 0.2.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    proxies (0.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mime-types!
+  s3!
